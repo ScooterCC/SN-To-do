@@ -4,15 +4,15 @@
         <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>cody.cattan</sys_created_by>
-        <sys_created_on>2024-08-14 18:37:37</sys_created_on>
-        <sys_id>ffa3d3c1c3841210716a38bc050131b4</sys_id>
+        <sys_created_on>2024-08-14 18:58:59</sys_created_on>
+        <sys_id>70981389c3841210716a38bc05013114</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Create To Do Item</sys_name>
         <sys_package display_value="To Do" source="x_1314926_to_do">50fa66c9c3801210716a38bc05013110</sys_package>
         <sys_policy/>
         <sys_scope display_value="To Do">50fa66c9c3801210716a38bc05013110</sys_scope>
-        <sys_update_name>sc_cat_item_catalog_ffa3d3c1c3841210716a38bc050131b4</sys_update_name>
+        <sys_update_name>sc_cat_item_catalog_70981389c3841210716a38bc05013114</sys_update_name>
         <sys_updated_by>cody.cattan</sys_updated_by>
-        <sys_updated_on>2024-08-14 18:37:37</sys_updated_on>
+        <sys_updated_on>2024-08-14 18:58:59</sys_updated_on>
     </sc_cat_item_catalog>
 </record_update>
